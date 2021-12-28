@@ -32,6 +32,7 @@ def checkwin(field,sym):
     return res
 
 
+
 answ=input('Сыграем в "Крестики-нолики?" (y/n)')
 if answ=='y':
     printfield(field2)
